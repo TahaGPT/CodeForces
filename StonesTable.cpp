@@ -14,7 +14,6 @@ int main()
         if(num[i - 1] == num[i])
         {
             c++;
-            // i--;
         }
     }
     cout << c << endl;
